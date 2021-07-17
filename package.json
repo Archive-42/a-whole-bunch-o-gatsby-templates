@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@bgoonz11/repoutils": "^1.0.5"
+    "@bgoonz11/repoutils": "^1.0.5",
+    "gatsby-cli": "^3.9.0"
   }
 }
