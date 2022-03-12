@@ -28,7 +28,7 @@
     "gatsby-source-filesystem": "2.0.1-beta.10",
     "gatsby-transformer-remark": "2.1.1-beta.3",
     "gatsby-transformer-sharp": "2.1.1-beta.6",
-    "prismjs": "^1.15.0",
+    "prismjs": "^1.27.0",
     "prop-types": "^15.6.2",
     "react": "^16.3.2",
     "react-custom-share": "^0.4.8",
