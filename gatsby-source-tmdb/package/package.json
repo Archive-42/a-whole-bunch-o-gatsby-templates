@@ -21,7 +21,7 @@
   "dependencies": {
     "gatsby-node-helpers": "^1.2.1",
     "gatsby-source-filesystem": "^3.4.0",
-    "got": "^11.8.2"
+    "got": "^11.8.5"
   },
   "devDependencies": {
     "@types/got": "^9.6.11",
