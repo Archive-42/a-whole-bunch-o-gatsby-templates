@@ -15,7 +15,7 @@
     "gatsby-core-utils": "^2.10.0-next.1",
     "gatsby-plugin-utils": "^1.10.0-next.1",
     "gatsby-telemetry": "^2.10.0-next.1",
-    "got": "^10.7.0",
+    "got": "^11.8.5",
     "imagemin": "^7.0.1",
     "imagemin-mozjpeg": "^9.0.0",
     "imagemin-pngquant": "^9.0.1",
