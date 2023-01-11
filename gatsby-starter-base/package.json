@@ -26,7 +26,7 @@
     "gatsby-remark-smartypants": "2.0.0-beta.3",
     "gatsby-plugin-sitemap": "2.0.0-beta.3",
     "gatsby-source-filesystem": "2.0.1-beta.10",
-    "gatsby-transformer-remark": "2.1.1-beta.3",
+    "gatsby-transformer-remark": "5.25.1",
     "gatsby-transformer-sharp": "2.1.1-beta.6",
     "prismjs": "^1.15.0",
     "prop-types": "^15.6.2",
