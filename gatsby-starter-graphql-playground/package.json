@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@lekoarts/gatsby-theme-graphql-playground": "^2.0.0",
-    "gatsby": "^3.6.1",
+    "gatsby": "^3.15.0",
     "gatsby-plugin-gatsby-cloud": "^2.6.1",
     "gatsby-plugin-netlify": "^3.6.1",
     "gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.22",
